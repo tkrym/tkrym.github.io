@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-06T13:40:01.326Z</updated>
+  <updated>2020-07-06T14:44:17.953Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="http://yoursite.com/2020/07/06/My-New-Post/"/>
-    <id>http://yoursite.com/2020/07/06/My-New-Post/</id>
-    <published>2020-07-06T13:40:01.000Z</published>
-    <updated>2020-07-06T13:40:01.326Z</updated>
+    <title>测试文档</title>
+    <link href="http://yoursite.com/2020/07/06/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    <id>http://yoursite.com/2020/07/06/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</id>
+    <published>2020-07-06T14:41:44.000Z</published>
+    <updated>2020-07-06T14:44:17.953Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   

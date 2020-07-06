@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>My New Post</title>
-      <link href="/2020/07/06/My-New-Post/"/>
-      <url>/2020/07/06/My-New-Post/</url>
+      <title>测试文档</title>
+      <link href="/2020/07/06/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+      <url>/2020/07/06/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
       
     </entry>
     
